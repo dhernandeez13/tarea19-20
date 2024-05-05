@@ -1,1 +1,2 @@
 Este es el archivo 2
+Version 2 del archivo2
